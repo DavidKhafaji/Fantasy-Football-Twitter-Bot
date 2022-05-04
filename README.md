@@ -1,5 +1,5 @@
-My fantasy football twitter bot, made with Python and JS! 
+# theModelBot
+Twitter and ESPN bot. Two scripts are contained, get-models.py downloads images from a website hosting pictures of models, and creates a folder to store them in. the-model-bot.py accesses the twitter API via the tweepy library, and tweets the pictures of models at a set time interval.
+Meet one of the first ever ESPN & Twitter Bots all-in-one. With Tweepy, we're able to connect to Twitters Library; where we can call upon a simple API and create a function. 
 
-The bot itself uses the python Library 'Tweepy' to access the Twitter API. Thanks to Twitter's functionality with developer mode, I was able to set up API access using an 'authtoken' for my bot.
-
-The bot collects each score from our fantasy football league, and tweets out results weekly; using team name and score.
+Upon creating the ESPNBot, I instantly knew I'd need to reach a /login page in order to scrape data from a specific 'fantasy football' league, such as ID "1958291020". However, when testing this case, I wasn't able to generate a login page. After though, I was able to type in my credentials wrong; which prompted an S2 key in the console. I was immediately b

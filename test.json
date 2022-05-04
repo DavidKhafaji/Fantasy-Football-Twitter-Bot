@@ -1,0 +1,3059 @@
+{
+    "id": "{D24A8720-97F9-47EB-8A87-2097F987EBFA}",
+    "anon": false,
+    "profile": {
+        "createDate": 1439996298445,
+        "lastUpdateDate": 1523508158400,
+        "lastUpdateSource": "espnapp-ios-handset_en-us",
+        "isInsider": false,
+        "isPremium": true,
+        "gender": "U",
+        "hasNotificationPreferences": true,
+        "useSortGlobal": false,
+        "settings": {
+            "favsFeedLastRead": {
+                "createDate": 1460757053431,
+                "lastUpdateDate": 1523508158400,
+                "createSource": "espnapp-ios-handset",
+                "lastUpdateSource": "espnapp-ios-handset_en-us",
+                "value": "1523508158"
+            },
+            "activeProducts": {
+                "createDate": 1445680057942,
+                "lastUpdateDate": 1472900118141,
+                "createSource": "fuse-v2-batch-profile",
+                "lastUpdateSource": "fuse-v2-batch",
+                "metaData": {
+                    "lm_fhl": "false",
+                    "lm_ffl": "true",
+                    "lm_flb": "false",
+                    "lm_fba": "false"
+                },
+                "value": "true"
+            }
+        },
+        "age": 29,
+        "countryCode": "US",
+        "registrationSource": "espn_wireless",
+        "registrationDate": 1378339200000
+    },
+    "lastAccessDate": "2021-11-30T00:15:13Z",
+    "createDate": "2015-08-08T18:57:49Z",
+    "lastUpdateDate": "2021-11-30T09:44:13Z",
+    "createSource": "Fantasy_Client_V2-ffl",
+    "lastUpdateSource": "Fantasy_Client_V2-LM-NextGen",
+    "lastAccessSource": "fantasyapp-ios",
+    "preferences": [{
+        "id": "3C807068-FFA5-4DA1-8524-7D171BE5DCFD",
+        "createDate": 1455122643462,
+        "lastUpdateDate": 1512990711301,
+        "createSource": "espnapp-ios-handset",
+        "lastUpdateSource": "fuse-v2-batch",
+        "metaData": {
+            "sportId": "28",
+            "teamId": "21",
+            "team": {
+                "uid": "s:20~l:28~t:21",
+                "slug": "philadelphia-eagles",
+                "location": "Philadelphia",
+                "name": "Eagles",
+                "abbreviation": "PHI",
+                "color": "06424d",
+                "text": "Philadelphia Eagles",
+                "sportName": "National Football League",
+                "alternateAbbreviation": "PHI",
+                "secondaryColor": "a5acaf",
+                "sportSlug": "nfl",
+                "sportAbbreviation": "NFL",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2021/teams/21?lang=en&region=us"
+                },
+                "shortDisplayName": "Eagles",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["clubhouse", "desktop", "team"],
+                    "href": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["roster", "desktop", "team"],
+                    "href": "http://www.espn.com/nfl/team/roster/_/name/phi/philadelphia-eagles",
+                    "text": "Roster",
+                    "shortText": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "team"],
+                    "href": "http://www.espn.com/nfl/team/stats/_/name/phi/philadelphia-eagles",
+                    "text": "Statistics",
+                    "shortText": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "team"],
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/phi",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["photos", "desktop", "team"],
+                    "href": "https://www.espn.com/nfl/team/photos/_/name/phi",
+                    "text": "photos",
+                    "shortText": "photos",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "team"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:21&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["draftpicks", "desktop", "team"],
+                    "href": "http://www.espn.com/nfl/draft/teams/_/name/phi/philadelphia-eagles",
+                    "text": "Draft Picks",
+                    "shortText": "Draft Picks",
+                    "isExternal": false,
+                    "isPremium": true
+                }, {
+                    "language": "en-US",
+                    "rel": ["transactions", "desktop", "team"],
+                    "href": "https://www.espn.com/nfl/team/transactions/_/name/phi",
+                    "text": "Transactions",
+                    "shortText": "Transactions",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["injuries", "desktop", "team"],
+                    "href": "https://www.espn.com/nfl/team/injuries/_/name/phi",
+                    "text": "Injuries",
+                    "shortText": "Injuries",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["depthchart", "desktop", "team"],
+                    "href": "https://www.espn.com/nfl/team/depth/_/name/phi",
+                    "text": "Depth Chart",
+                    "shortText": "Depth Chart",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            },
+            "events": [{
+                "gamecastAvailable": true,
+                "playByPlayAvailable": true,
+                "commentaryAvailable": false,
+                "recent": false,
+                "id": "401326503",
+                "competitionId": "401326503",
+                "uid": "s:20~l:28~e:401326503~c:401326503",
+                "date": "2021-11-28T18:00:00Z",
+                "timeValid": true,
+                "name": "Philadelphia Eagles at New York Giants",
+                "shortName": "PHI @ NYG",
+                "location": "MetLife Stadium",
+                "season": 2021,
+                "seasonStartDate": "2021-07-17T07:00:00Z",
+                "seasonEndDate": "2022-01-13T07:59:00Z",
+                "seasonType": "2",
+                "seasonTypeHasGroups": false,
+                "group": {
+                    "groupId": "2",
+                    "name": "Regular Season",
+                    "abbreviation": "reg",
+                    "shortName": "REG"
+                },
+                "week": 12,
+                "weekText": "Week 12",
+                "period": 4,
+                "clock": "0:00",
+                "status": "post",
+                "summary": "Final",
+                "fullStatus": {
+                    "clock": 0.0,
+                    "displayClock": "0:00",
+                    "period": 4,
+                    "type": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                },
+                "link": "https://www.espn.com/nfl/game/_/gameId/401326503",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["summary", "desktop", "event"],
+                    "href": "https://www.espn.com/nfl/game/_/gameId/401326503",
+                    "text": "Gamecast",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["boxscore", "desktop", "event"],
+                    "href": "http://www.espn.com/nfl/boxscore/_/gameId/401326503",
+                    "text": "Box Score",
+                    "isExternal": false,
+                    "isPremium": false
+                }],
+                "onWatch": false,
+                "broadcasts": [{
+                    "type": "TV",
+                    "station": "FOX",
+                    "slug": "fox",
+                    "priority": 1,
+                    "lang": "en",
+                    "region": "us",
+                    "typeId": 1,
+                    "isNational": true,
+                    "broadcasterId": 148,
+                    "broadcastId": 148,
+                    "name": "FOX",
+                    "shortName": "FOX",
+                    "callLetters": "FOX"
+                }],
+                "broadcast": "FOX",
+                "odds": {
+                    "provider": {
+                        "id": "45",
+                        "name": "Caesars Sportsbook (New Jersey)",
+                        "priority": 1
+                    },
+                    "details": "PHI -4.0",
+                    "overUnder": 45.0,
+                    "spread": 4.0,
+                    "overOdds": -110.0,
+                    "underOdds": -110.0,
+                    "awayTeamOdds": {
+                        "favorite": true,
+                        "underdog": false,
+                        "moneyLine": -200,
+                        "spreadOdds": -110.0,
+                        "team": {
+                            "id": "21",
+                            "abbreviation": "PHI"
+                        }
+                    },
+                    "homeTeamOdds": {
+                        "favorite": false,
+                        "underdog": true,
+                        "moneyLine": 170,
+                        "spreadOdds": -110.0,
+                        "team": {
+                            "id": "19",
+                            "abbreviation": "NYG"
+                        }
+                    },
+                    "links": [],
+                    "moneylineWinner": false,
+                    "spreadWinner": false,
+                    "home": {
+                        "moneyLine": 170
+                    },
+                    "away": {
+                        "moneyLine": -200
+                    }
+                },
+                "competitors": [{
+                    "id": "19",
+                    "uid": "s:20~l:28~t:19",
+                    "type": "team",
+                    "order": 0,
+                    "homeAway": "home",
+                    "winner": true,
+                    "score": "13",
+                    "record": "4-7",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/nyg.png",
+                    "displayName": "New York Giants",
+                    "name": "Giants",
+                    "abbreviation": "NYG",
+                    "location": "New York",
+                    "color": "052570",
+                    "alternateColor": "ffffff",
+                    "group": "1",
+                    "competitionIdPrevious": "401326493",
+                    "competitionIdNext": "401326516"
+                }, {
+                    "id": "21",
+                    "uid": "s:20~l:28~t:21",
+                    "type": "team",
+                    "order": 1,
+                    "homeAway": "away",
+                    "winner": false,
+                    "score": "7",
+                    "record": "5-7",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/phi.png",
+                    "displayName": "Philadelphia Eagles",
+                    "name": "Eagles",
+                    "abbreviation": "PHI",
+                    "location": "Philadelphia",
+                    "color": "06424D",
+                    "alternateColor": "a5acaf",
+                    "group": "1",
+                    "competitionIdPrevious": "401326487",
+                    "competitionIdNext": "401326517"
+                }],
+                "appLinks": [{
+                    "language": "en-US",
+                    "rel": ["summary", "sportscenter", "app", "event"],
+                    "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401326503",
+                    "text": "Gamecast",
+                    "shortText": "Summary",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["boxscore", "sportscenter", "app", "event"],
+                    "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401326503",
+                    "text": "Box Score",
+                    "shortText": "Box Score",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["gamecast", "sportscenter", "app", "event"],
+                    "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=nfl&gameId=401326503",
+                    "text": "Gamecast",
+                    "shortText": "Gamecast",
+                    "isExternal": false,
+                    "isPremium": false
+                }],
+                "league": {
+                    "uid": "s:20~l:28",
+                    "name": "National Football League",
+                    "id": "28",
+                    "abbreviation": "NFL",
+                    "shortName": "NFL",
+                    "slug": "nfl"
+                }
+            }],
+            "nowFeed": [{
+                "type": "Story",
+                "nowId": "1-32122088",
+                "premium": false,
+                "links": {
+                    "web": {
+                        "href": "https://www.espn.com/nfl/draft2022/story/_/id/32122088/projected-nfl-draft-order-2022-no-1-pick"
+                    }
+                },
+                "lastModified": 1638291979000,
+                "headline": "Projected NFL draft order for 2022: Who has the No. 1 pick?"
+            }],
+            "isLive": false,
+            "isLeagueInSeason": true
+        },
+        "sortGlobal": 26,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 2,
+        "affinity": 1,
+        "type": {
+            "id": 2,
+            "name": "Favorite Teams",
+            "code": "teams",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 50
+        }
+    }, {
+        "id": "9E6EB9DB-9A85-4AE8-A528-22CC9E3A544D",
+        "createDate": 1535850152656,
+        "lastUpdateDate": 1543147372833,
+        "createSource": "espnapp-ios-handset_en-us",
+        "lastUpdateSource": "fuse-v2-batch",
+        "metaData": {
+            "sportId": "23",
+            "teamId": "249",
+            "team": {
+                "uid": "s:20~l:23~t:249",
+                "slug": "north-texas-mean-green",
+                "location": "North Texas",
+                "name": "Mean Green",
+                "abbreviation": "UNT",
+                "color": "00853d",
+                "text": "North Texas Mean Green",
+                "sportName": "NCAA - Football",
+                "alternateAbbreviation": "UNT",
+                "secondaryColor": "000000",
+                "sportSlug": "college-football",
+                "sportAbbreviation": "NCAAF",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2021/teams/249?lang=en&region=us"
+                },
+                "shortDisplayName": "Mean Green",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["clubhouse", "desktop", "team"],
+                    "href": "https://www.espn.com/college-football/team/_/id/249/north-texas-mean-green",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["clubhouse", "mobile", "team"],
+                    "href": "http://www.espn.com/college-football/team/_/id/249/north-texas-mean-green",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["roster", "desktop", "team"],
+                    "href": "http://www.espn.com/college-football/team/roster/_/id/249",
+                    "text": "Roster",
+                    "shortText": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "team"],
+                    "href": "http://www.espn.com/college-football/team/stats/_/id/249",
+                    "text": "Statistics",
+                    "shortText": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "team"],
+                    "href": "http://www.espn.com/college-football/team/schedule/_/id/249",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["photos", "desktop", "team"],
+                    "href": "http://www.espn.com/college-football/team/photos/_/id/249",
+                    "text": "photos",
+                    "shortText": "photos",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "team"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23~t:249&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["awards", "desktop", "team"],
+                    "href": "http://www.espn.com/college-football/awards/_/team/249",
+                    "text": "Awards",
+                    "shortText": "Awards",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            },
+            "events": [{
+                "gamecastAvailable": true,
+                "playByPlayAvailable": true,
+                "commentaryAvailable": false,
+                "recent": false,
+                "id": "401282273",
+                "competitionId": "401282273",
+                "uid": "s:20~l:23~e:401282273~c:401282273",
+                "date": "2021-11-27T19:00:00Z",
+                "timeValid": true,
+                "name": "UTSA Roadrunners at North Texas Mean Green",
+                "shortName": "UTSA @ UNT",
+                "location": "Apogee Stadium",
+                "season": 2021,
+                "seasonStartDate": "2021-07-01T07:00:00Z",
+                "seasonEndDate": "2021-12-17T07:59:00Z",
+                "seasonType": "2",
+                "seasonTypeHasGroups": false,
+                "group": {
+                    "groupId": "2",
+                    "name": "Regular Season",
+                    "abbreviation": "reg",
+                    "shortName": "REG"
+                },
+                "week": 13,
+                "weekText": "Week 13",
+                "period": 4,
+                "clock": "0:00",
+                "status": "post",
+                "summary": "Final",
+                "fullStatus": {
+                    "clock": 0.0,
+                    "displayClock": "0:00",
+                    "period": 4,
+                    "type": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                },
+                "link": "https://www.espn.com/college-football/game/_/gameId/401282273",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["summary", "desktop", "event"],
+                    "href": "https://www.espn.com/college-football/game/_/gameId/401282273",
+                    "text": "Gamecast",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["boxscore", "desktop", "event"],
+                    "href": "http://www.espn.com/college-football/boxscore/_/gameId/401282273",
+                    "text": "Box Score",
+                    "isExternal": false,
+                    "isPremium": false
+                }],
+                "onWatch": true,
+                "broadcasts": [{
+                    "type": "Web",
+                    "station": "ESPN+",
+                    "slug": "espn",
+                    "priority": 1,
+                    "lang": "en",
+                    "region": "us",
+                    "typeId": 4,
+                    "isNational": true,
+                    "broadcasterId": 755,
+                    "broadcastId": 755,
+                    "name": "ESPN+",
+                    "shortName": "ESPN+",
+                    "callLetters": "ESPN+"
+                }],
+                "broadcast": "ESPN+",
+                "odds": {
+                    "provider": {
+                        "id": "45",
+                        "name": "Caesars Sportsbook (New Jersey)",
+                        "priority": 1
+                    },
+                    "details": "UTSA -8.5",
+                    "overUnder": 59.5,
+                    "spread": 8.5,
+                    "overOdds": -110.0,
+                    "underOdds": -110.0,
+                    "awayTeamOdds": {
+                        "favorite": true,
+                        "underdog": false,
+                        "moneyLine": -360,
+                        "spreadOdds": -110.0,
+                        "team": {
+                            "id": "2636",
+                            "abbreviation": "UTSA"
+                        }
+                    },
+                    "homeTeamOdds": {
+                        "favorite": false,
+                        "underdog": true,
+                        "moneyLine": 285,
+                        "spreadOdds": -110.0,
+                        "team": {
+                            "id": "249",
+                            "abbreviation": "UNT"
+                        }
+                    },
+                    "links": [],
+                    "moneylineWinner": false,
+                    "spreadWinner": false,
+                    "home": {
+                        "moneyLine": 285
+                    },
+                    "away": {
+                        "moneyLine": -360
+                    }
+                },
+                "competitors": [{
+                    "id": "249",
+                    "uid": "s:20~l:23~t:249",
+                    "type": "team",
+                    "order": 0,
+                    "homeAway": "home",
+                    "winner": true,
+                    "score": "45",
+                    "record": "6-6",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/249.png",
+                    "displayName": "North Texas Mean Green",
+                    "name": "North Texas",
+                    "abbreviation": "UNT",
+                    "location": "North Texas",
+                    "color": "00853D",
+                    "alternateColor": "000000",
+                    "group": "47",
+                    "competitionIdPrevious": "401282262"
+                }, {
+                    "id": "2636",
+                    "uid": "s:20~l:23~t:2636",
+                    "type": "team",
+                    "order": 1,
+                    "homeAway": "away",
+                    "winner": false,
+                    "score": "23",
+                    "record": "11-1",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2636.png",
+                    "displayName": "UTSA Roadrunners",
+                    "name": "UTSA",
+                    "abbreviation": "UTSA",
+                    "location": "UTSA",
+                    "color": "002A5C",
+                    "alternateColor": "f47321",
+                    "group": "47",
+                    "rank": 22,
+                    "competitionIdPrevious": "401282267",
+                    "competitionIdNext": "401282156"
+                }],
+                "airings": [{
+                    "createdOn": "2021-11-27T22:16:39.149+0000",
+                    "lastModifiedOn": "2021-11-27T22:34:04.804+0000",
+                    "artworkUrl": "https://artwork.api.espn.com/artwork/collections/media/625f0663-bf34-4e6d-850f-95696f884b99",
+                    "externalId": "BAM:a115400627",
+                    "properties": {
+                        "allowedAccess": "domestic",
+                        "hasEspnId3Heartbeats": "false",
+                        "reAir": "false",
+                        "isReplay": "true",
+                        "sponsored": "false",
+                        "language": "en-US",
+                        "shortTitle": "#22 UTSA vs. N Texas",
+                        "trueOriginal": "true",
+                        "title": "#22 UTSA vs. North Texas (Football)",
+                        "simulcastAiringId": "115400627",
+                        "contentCleared": "true",
+                        "hasPassThroughAds": "false",
+                        "dtcPackages": ["ESPN_PLUS"],
+                        "hasNielsenWatermarks": "false",
+                        "artworkLastModified": "202111240052",
+                        "origination": "SCHOOL",
+                        "feedType": "NATIONAL FEED",
+                        "ratingsId": "FBSA05743",
+                        "name": "#22 UTSA vs. North Texas",
+                        "shortName": "ESPN's Afternoon College Football",
+                        "canIpAuthenticate": "false",
+                        "commercialdistribution": "JHP-002",
+                        "trackingId": "625f0663-bf34-4e6d-850f-95696f884b99"
+                    },
+                    "productLinks": {
+                        "web": "http://www.espn.com/watch/player?id=625f0663-bf34-4e6d-850f-95696f884b99",
+                        "mobile": "sportscenter://x-callback-url/showClubhouse?uid=content:espn_plus&playID=625f0663-bf34-4e6d-850f-95696f884b99"
+                    },
+                    "id": "625f0663-bf34-4e6d-850f-95696f884b99",
+                    "program": "0e96908e-9e01-49c1-9ce4-e004d8a40591",
+                    "playableUrl": "https://playback.svcs.plus.espn.com/media/af0740fa-f6b9-4afd-b70e-11654369982e/scenarios/{scenario}",
+                    "policyUrl": "https://restrictions.api.espn.com/restrictions/policies/d15f4620-1659-4411-ad00-bd9dd70c6871",
+                    "duration": 11462000,
+                    "available": "2021-11-27T19:00:00.000+0000",
+                    "expires": "2021-12-27T19:00:00.000+0000",
+                    "type": "replay",
+                    "network": "espn_dtc",
+                    "networkId": "a698f0a3-dcfc-4684-9ca2-3082a28111cc",
+                    "policy": {
+                        "viewingPolicies": [{
+                            "audience": {
+                                "id": "fab7975c-b5b6-47bb-9ec7-227b81ca8518",
+                                "externalId": "ESPN_PLUS",
+                                "name": "ESPN_PLUS entitlement audience",
+                                "match": "ANY",
+                                "properties": {
+                                    "subscription": ["ESPN_PLUS"]
+                                }
+                            },
+                            "actions": ["allow_entitlement"],
+                            "name": "Viewing policy for ESPN_PLUS entitlement",
+                            "id": "d922dd59-10ff-4c9c-bd1e-cae6560698ef",
+                            "externalId": "ESPN_PLUS"
+                        }, {
+                            "audience": {
+                                "id": "78f1ce73-384f-483f-b4de-dc959651a7e9",
+                                "externalId": "AS_GU_MP_PR_US_VI",
+                                "name": "Audience for US and territories whitelist",
+                                "match": "NONE",
+                                "properties": {
+                                    "iso3166": ["AS", "GU", "MP", "PR", "US", "VI"]
+                                }
+                            },
+                            "actions": ["reject_blackout"],
+                            "name": "Viewing policy for US and territories allow list",
+                            "id": "e2fdc729-4ba1-413e-9a02-6ddc74d89689",
+                            "externalId": "AS_GU_MP_PR_US_VI"
+                        }],
+                        "id": "d15f4620-1659-4411-ad00-bd9dd70c6871",
+                        "createdBy": "anonymous",
+                        "createdOn": "2021-11-15T23:22:19.278Z",
+                        "lastModifiedBy": "anonymous",
+                        "lastModifiedOn": "2021-11-27T22:16:39.623Z"
+                    },
+                    "images": [{
+                        "height": 360,
+                        "width": 640,
+                        "name": "#22 UTSA vs. North Texas",
+                        "url": "https://s.secure.espncdn.com/stitcher/artwork/collections/media/625f0663-bf34-4e6d-850f-95696f884b99/16x9.png?timestamp=202111240052",
+                        "peers": [{
+                            "height": 640,
+                            "width": 360,
+                            "name": "#22 UTSA vs. North Texas",
+                            "url": "https://s.secure.espncdn.com/stitcher/artwork/collections/media/625f0663-bf34-4e6d-850f-95696f884b99/16x9.png?timestamp=202111240052"
+                        }]
+                    }],
+                    "network_shortName": "ESPN+",
+                    "network_displayName": "ESPN+",
+                    "program_language": "English",
+                    "program_eventId": "401282273",
+                    "program_eventUrl": "https://events.api.espn.com/eventcalendar/api/events/ec1/401282273",
+                    "program_categories": [{
+                        "artworkUrl": "https://artwork.api.espn.com/artwork/collections/categories/0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
+                        "id": "0f8e3d42-fa27-3f60-9e8d-276e4892f50e",
+                        "type": "league",
+                        "name": "NCAA Football",
+                        "sportId": "23"
+                    }, {
+                        "artworkUrl": "https://artwork.api.espn.com/artwork/collections/categories/b086526e-9eae-4244-9ff1-2e98faccd7a2",
+                        "id": "b086526e-9eae-4244-9ff1-2e98faccd7a2",
+                        "type": "conference",
+                        "name": "Conference USA"
+                    }, {
+                        "artworkUrl": "https://artwork.api.espn.com/artwork/collections/categories/60459870-f8fc-3b3a-a6b9-d8af4bf19223",
+                        "id": "60459870-f8fc-3b3a-a6b9-d8af4bf19223",
+                        "type": "sport",
+                        "name": "Football",
+                        "sportId": "20"
+                    }, {
+                        "artworkUrl": "https://artwork.api.espn.com/artwork/collections/categories/cbb67d00-f4b6-4e03-933e-76bfc23ea306",
+                        "id": "cbb67d00-f4b6-4e03-933e-76bfc23ea306",
+                        "type": "organizer",
+                        "name": "NCAA"
+                    }],
+                    "program_shortTitle": "#22 UTSA vs. N Texas",
+                    "program_originalAirDate": "2021-11-27T19:00:00+0000",
+                    "program_firstPresented": "2021-11-27T19:00:00.000+0000",
+                    "webAiringLink": "https://www.espn.com/watch/player/_/id/625f0663-bf34-4e6d-850f-95696f884b99",
+                    "appAiringLink": "sportscenter://x-callback-url/showWatchStream?playID=625f0663-bf34-4e6d-850f-95696f884b99",
+                    "appGameLink": "sportscenter://x-callback-url/showWatchStream?playGameID=401282273"
+                }],
+                "video": {
+                    "source": "espn",
+                    "id": 32729351,
+                    "headline": "Ayo Adeyi scores 42-yard rushing touchdown vs. UTSA",
+                    "caption": "Ayo Adeyi scores 42-yard rushing touchdown vs. UTSA",
+                    "description": "Ayo Adeyi scores 42-yard rushing touchdown vs. UTSA",
+                    "premium": false,
+                    "ad": {
+                        "sport": "ncf",
+                        "bundle": "ncf_instant_replays"
+                    },
+                    "tracking": {
+                        "sportName": "ncf",
+                        "leagueName": "No League",
+                        "coverageType": "Final Game Highlight",
+                        "trackingName": "NCF_One-Play (Ayo Adeyi scores 42-yard Rushing touchdown vs. UTSA) 2021/11/27 ESHEET",
+                        "trackingId": "dm_20211127_NCF_ayo_adeyi_scores_42yard_rushing_touchdown_vs_utsa"
+                    },
+                    "cerebroId": "61a2a209ca84b71b7c367f83",
+                    "pccId": "942e9b83-dd0a-4a56-9b3e-1bcdcd80d387",
+                    "contributingPartner": "wsc",
+                    "contributingSystem": "wsc",
+                    "lastModified": "2021-11-27T21:55:01Z",
+                    "originalPublishDate": "2021-11-27T21:24:23Z",
+                    "timeRestrictions": {
+                        "embargoDate": "2021-11-27T21:24:23Z",
+                        "expirationDate": "2038-01-01T04:59:59Z"
+                    },
+                    "deviceRestrictions": {
+                        "type": "whitelist",
+                        "devices": ["desktop", "settop", "handset", "tablet"]
+                    },
+                    "syndicatable": true,
+                    "duration": 31,
+                    "categories": [{
+                        "id": 1170,
+                        "description": "North Texas Mean Green",
+                        "type": "team",
+                        "sportId": 23,
+                        "teamId": 249,
+                        "team": {
+                            "id": 249,
+                            "description": "North Texas Mean Green",
+                            "links": {
+                                "api": {
+                                    "teams": {
+                                        "href": "http://api.espn.com/v1/sports/football/college-football/teams/249"
+                                    }
+                                },
+                                "web": {
+                                    "teams": {
+                                        "href": "https://www.espn.com/college-football/team/_/id/249/north-texas-mean-green?ex_cid=espnapi_internal"
+                                    }
+                                },
+                                "mobile": {
+                                    "teams": {
+                                        "href": "http://m.espn.go.com/ncf/clubhouse?teamId=249&ex_cid=espnapi_internal"
+                                    }
+                                }
+                            }
+                        },
+                        "uid": "s:20~l:23~t:249"
+                    }, {
+                        "id": 9571,
+                        "description": "College Football",
+                        "type": "league",
+                        "sportId": 23,
+                        "leagueId": 23,
+                        "league": {
+                            "id": 23,
+                            "description": "College Football",
+                            "links": {
+                                "api": {
+                                    "leagues": {
+                                        "href": "http://api.espn.com/v1/sports/football/college-football"
+                                    }
+                                },
+                                "web": {
+                                    "leagues": {
+                                        "href": "https://www.espn.com/college-football/?ex_cid=espnapi_internal"
+                                    }
+                                },
+                                "mobile": {
+                                    "leagues": {
+                                        "href": "http://m.espn.go.com/ncf/?ex_cid=espnapi_internal"
+                                    }
+                                }
+                            }
+                        },
+                        "uid": "s:20~l:23"
+                    }, {
+                        "id": 95579,
+                        "description": "UTSA Roadrunners",
+                        "type": "team",
+                        "sportId": 23,
+                        "teamId": 2636,
+                        "team": {
+                            "id": 2636,
+                            "description": "UTSA Roadrunners",
+                            "links": {
+                                "api": {
+                                    "teams": {
+                                        "href": "http://api.espn.com/v1/sports/football/college-football/teams/2636"
+                                    }
+                                },
+                                "web": {
+                                    "teams": {
+                                        "href": "https://www.espn.com/college-football/team/_/id/2636/utsa-roadrunners?ex_cid=espnapi_internal"
+                                    }
+                                },
+                                "mobile": {
+                                    "teams": {
+                                        "href": "http://m.espn.go.com/ncf/clubhouse?teamId=2636&ex_cid=espnapi_internal"
+                                    }
+                                }
+                            }
+                        },
+                        "uid": "s:20~l:23~t:2636"
+                    }, {
+                        "id": 492793,
+                        "description": "Ayo Adeyi",
+                        "type": "athlete",
+                        "sportId": 23,
+                        "athleteId": 4875861,
+                        "athlete": {
+                            "id": 4875861,
+                            "description": "Ayo Adeyi",
+                            "links": {
+                                "api": {
+                                    "athletes": {
+                                        "href": "http://api.espn.com/v1/sports/football/college-football/athletes/4875861"
+                                    }
+                                },
+                                "web": {
+                                    "athletes": {
+                                        "href": "https://www.espn.com/college-football/player/_/id/4875861/ayo-adeyi?ex_cid=espnapi_internal"
+                                    }
+                                },
+                                "mobile": {
+                                    "athletes": {
+                                        "href": "http://m.espn.go.com/ncf/playercard?playerId=4875861&ex_cid=espnapi_internal"
+                                    }
+                                }
+                            }
+                        }
+                    }],
+                    "gameId": 401282273,
+                    "keywords": [],
+                    "posterImages": {
+                        "default": {
+                            "href": "https://media.video-cdn.espn.com/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646_default.jpg",
+                            "width": 576,
+                            "height": 324
+                        },
+                        "full": {
+                            "href": "https://media.video-cdn.espn.com/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646.jpg"
+                        },
+                        "wide": {
+                            "href": "https://media.video-cdn.espn.com/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646_5x2.jpg"
+                        },
+                        "square": {
+                            "href": "https://media.video-cdn.espn.com/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646_1x1.jpg"
+                        }
+                    },
+                    "images": [{
+                        "name": "Poster Image",
+                        "url": "https://media.video-cdn.espn.com/images/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646.jpg",
+                        "alt": "",
+                        "caption": "",
+                        "credit": "",
+                        "width": 576,
+                        "height": 324
+                    }],
+                    "thumbnail": "https://a.espncdn.com/media/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646.jpg",
+                    "links": {
+                        "api": {
+                            "self": {
+                                "href": "http://api.espn.com/v1/video/clips/32729351"
+                            },
+                            "artwork": {
+                                "href": "https://artwork.api.espn.com/artwork/collections/media/942e9b83-dd0a-4a56-9b3e-1bcdcd80d387"
+                            }
+                        },
+                        "web": {
+                            "href": "http://espn.go.com/video/clip?id=32729351&ex_cid=espnapi_internal",
+                            "short": {
+                                "href": "https://es.pn/3xsYXxQ"
+                            },
+                            "self": {
+                                "href": "http://espn.go.com/video/clip?id=32729351&ex_cid=espnapi_internal"
+                            }
+                        },
+                        "source": {
+                            "mezzanine": {
+                                "href": "https://media.video-origin.espn.com/espnvideo/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646.mp4"
+                            },
+                            "flash": {
+                                "href": "https://media.video-cdn.espn.com/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646.smil"
+                            },
+                            "hds": {
+                                "href": "https://hds.video-cdn.espn.com/z/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646_rel.smil/manifest.f4m"
+                            },
+                            "HLS": {
+                                "href": "https://espnpackaging-vh.akamaihd.net/i/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646.smil/master.m3u8",
+                                "HD": {
+                                    "href": "https://espnpackaging-vh.akamaihd.net/i/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646.smil/master.m3u8"
+                                }
+                            },
+                            "HD": {
+                                "href": "https://media.video-cdn.espn.com/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646_720p30_2896k.mp4"
+                            },
+                            "full": {
+                                "href": "https://media.video-cdn.espn.com/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646_360p30_1464k.mp4"
+                            },
+                            "href": "https://media.video-cdn.espn.com/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646_360p30_1464k.mp4"
+                        },
+                        "mobile": {
+                            "alert": {
+                                "href": "http://m.espn.go.com/general/video/videoAlert?vid=32729351&ex_cid=espnapi_internal"
+                            },
+                            "source": {
+                                "href": "https://media.video-cdn.espn.com/motion/2021/1127/ss_20211127_162426929_1821646/ss_20211127_162426929_1821646.mp4"
+                            },
+                            "href": "https://watch.auth.api.espn.com/video/auth/brightcove/942e9b83-dd0a-4a56-9b3e-1bcdcd80d387/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=32729351",
+                            "streaming": {
+                                "href": "https://watch.auth.api.espn.com/video/auth/brightcove/942e9b83-dd0a-4a56-9b3e-1bcdcd80d387/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=32729351"
+                            },
+                            "progressiveDownload": {
+                                "href": "https://watch.auth.api.espn.com/video/auth/brightcove/942e9b83-dd0a-4a56-9b3e-1bcdcd80d387/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=32729351"
+                            }
+                        }
+                    }
+                },
+                "appLinks": [{
+                    "language": "en-US",
+                    "rel": ["summary", "sportscenter", "app", "event"],
+                    "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=college-football&gameId=401282273",
+                    "text": "Gamecast",
+                    "shortText": "Summary",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["boxscore", "sportscenter", "app", "event"],
+                    "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=college-football&gameId=401282273",
+                    "text": "Box Score",
+                    "shortText": "Box Score",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["gamecast", "sportscenter", "app", "event"],
+                    "href": "sportscenter://x-callback-url/showGame?sportName=football&leagueAbbrev=college-football&gameId=401282273",
+                    "text": "Gamecast",
+                    "shortText": "Gamecast",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["watchespn", "app", "event"],
+                    "href": "watchespn://showEvent?gameId=401282273&sourceLang=en",
+                    "text": "WatchESPN",
+                    "shortText": "WatchESPN",
+                    "isExternal": false,
+                    "isPremium": false
+                }],
+                "league": {
+                    "uid": "s:20~l:23",
+                    "name": "NCAA - Football",
+                    "id": "23",
+                    "abbreviation": "NCAAF",
+                    "shortName": "NCAA Football",
+                    "slug": "college-football"
+                }
+            }],
+            "nowFeed": [{
+                "type": "Media",
+                "nowId": "1-32729351",
+                "premium": false,
+                "links": {
+                    "web": {
+                        "href": "http://www.espn.com/video/clip?id=32729351"
+                    }
+                },
+                "lastModified": 1638050093000,
+                "headline": "Ayo Adeyi scores 42-yard rushing touchdown vs. UTSA"
+            }],
+            "isLive": false,
+            "isLeagueInSeason": true
+        },
+        "sortGlobal": 64,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 2,
+        "affinity": 1,
+        "type": {
+            "id": 2,
+            "name": "Favorite Teams",
+            "code": "teams",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 50
+        }
+    }, {
+        "id": "B7A3ADBF-8B6D-4691-A437-37154F02549C",
+        "createDate": 1455122648082,
+        "lastUpdateDate": 1522063620232,
+        "createSource": "espnapp-ios-handset",
+        "lastUpdateSource": "fuse-v2-batch",
+        "metaData": {
+            "sportId": "46",
+            "teamId": "13",
+            "team": {
+                "uid": "s:40~l:46~t:13",
+                "slug": "los-angeles-lakers",
+                "location": "Los Angeles",
+                "name": "Lakers",
+                "abbreviation": "LAL",
+                "color": "542582",
+                "text": "Los Angeles Lakers",
+                "sportName": "National Basketball Association",
+                "alternateAbbreviation": "LAL",
+                "secondaryColor": "552582",
+                "sportSlug": "nba",
+                "sportAbbreviation": "NBA",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/seasons/2022/teams/13?lang=en&region=us"
+                },
+                "shortDisplayName": "Lakers",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["clubhouse", "desktop", "team"],
+                    "href": "https://www.espn.com/nba/team/_/name/lal/los-angeles-lakers",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["roster", "desktop", "team"],
+                    "href": "http://www.espn.com/nba/team/roster/_/name/lal/los-angeles-lakers",
+                    "text": "Roster",
+                    "shortText": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "team"],
+                    "href": "http://www.espn.com/nba/team/stats/_/name/lal/los-angeles-lakers",
+                    "text": "Statistics",
+                    "shortText": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "team"],
+                    "href": "https://www.espn.com/nba/team/schedule/_/name/lal",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["photos", "desktop", "team"],
+                    "href": "https://www.espn.com/nba/team/photos/_/name/lal",
+                    "text": "photos",
+                    "shortText": "photos",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "team"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:13&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["draftpicks", "desktop", "team"],
+                    "href": "http://www.espn.com/nba/draft/teams/_/name/lal/los-angeles-lakers",
+                    "text": "Draft Picks",
+                    "shortText": "Draft Picks",
+                    "isExternal": false,
+                    "isPremium": true
+                }, {
+                    "language": "en-US",
+                    "rel": ["transactions", "desktop", "team"],
+                    "href": "http://www.espn.com/nba/team/transactions/_/name/lal",
+                    "text": "Transactions",
+                    "shortText": "Transactions",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["injuries", "desktop", "team"],
+                    "href": "https://www.espn.com/nba/team/injuries/_/name/lal",
+                    "text": "Injuries",
+                    "shortText": "Injuries",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["depthchart", "desktop", "team"],
+                    "href": "https://www.espn.com/nba/team/depth/_/name/lal",
+                    "text": "Depth Chart",
+                    "shortText": "Depth Chart",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            },
+            "events": [{
+                "gamecastAvailable": false,
+                "playByPlayAvailable": false,
+                "commentaryAvailable": false,
+                "recent": true,
+                "id": "401360142",
+                "competitionId": "401360142",
+                "uid": "s:40~l:46~e:401360142~c:401360142",
+                "date": "2021-12-01T03:00:00Z",
+                "timeValid": true,
+                "name": "Los Angeles Lakers at Sacramento Kings",
+                "shortName": "LAL @ SAC",
+                "location": "Golden 1 Center",
+                "season": 2022,
+                "seasonStartDate": "2021-09-22T07:00:00Z",
+                "seasonEndDate": "2022-04-11T06:59:00Z",
+                "seasonType": "2",
+                "seasonTypeHasGroups": false,
+                "group": {
+                    "groupId": "2",
+                    "name": "Regular Season",
+                    "abbreviation": "reg",
+                    "shortName": "REG"
+                },
+                "period": 0,
+                "clock": "0.0",
+                "status": "pre",
+                "summary": "11/30 - 10:00 PM EST",
+                "fullStatus": {
+                    "clock": 0.0,
+                    "displayClock": "0.0",
+                    "period": 0,
+                    "type": {
+                        "id": "1",
+                        "name": "STATUS_SCHEDULED",
+                        "state": "pre",
+                        "completed": false,
+                        "description": "Scheduled",
+                        "detail": "Tue, November 30th at 10:00 PM EST",
+                        "shortDetail": "11/30 - 10:00 PM EST"
+                    }
+                },
+                "link": "http://www.espn.com/nba/game/_/gameId/401360142",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["summary", "desktop", "event"],
+                    "href": "http://www.espn.com/nba/game/_/gameId/401360142",
+                    "text": "Gamecast",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["tickets", "desktop", "event"],
+                    "href": "https://www.vividseats.com/nba-basketball/sacramento-kings-tickets/kings-vs-lakers-11-30-3697390.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["tickets", "desktop", "venue"],
+                    "href": "https://www.vividseats.com/venues/golden-1-center-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                }],
+                "onWatch": false,
+                "seriesSummary": "SAC leads series 1-0",
+                "odds": {
+                    "provider": {
+                        "id": "45",
+                        "name": "Caesars Sportsbook (New Jersey)",
+                        "priority": 1
+                    },
+                    "details": "LAL -1.0",
+                    "overUnder": 224.0,
+                    "spread": 1.0,
+                    "overOdds": -110.0,
+                    "underOdds": -110.0,
+                    "awayTeamOdds": {
+                        "favorite": true,
+                        "underdog": false,
+                        "moneyLine": -120,
+                        "spreadOdds": -110.0,
+                        "team": {
+                            "id": "13",
+                            "abbreviation": "LAL"
+                        }
+                    },
+                    "homeTeamOdds": {
+                        "favorite": false,
+                        "underdog": true,
+                        "moneyLine": 100,
+                        "spreadOdds": -110.0,
+                        "team": {
+                            "id": "23",
+                            "abbreviation": "SAC"
+                        }
+                    },
+                    "links": [],
+                    "moneylineWinner": false,
+                    "spreadWinner": false,
+                    "home": {
+                        "moneyLine": 100
+                    },
+                    "away": {
+                        "moneyLine": -120
+                    }
+                },
+                "competitors": [{
+                    "id": "23",
+                    "uid": "s:40~l:46~t:23",
+                    "type": "team",
+                    "order": 0,
+                    "homeAway": "home",
+                    "score": "",
+                    "record": "8-13",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/sac.png",
+                    "winner": false,
+                    "displayName": "Sacramento Kings",
+                    "name": "Kings",
+                    "abbreviation": "SAC",
+                    "location": "Sacramento",
+                    "color": "393996",
+                    "alternateColor": "8e9090",
+                    "group": "4",
+                    "competitionIdPrevious": "401360127",
+                    "competitionIdNext": "401360151"
+                }, {
+                    "id": "13",
+                    "uid": "s:40~l:46~t:13",
+                    "type": "team",
+                    "order": 1,
+                    "homeAway": "away",
+                    "score": "",
+                    "record": "11-11",
+                    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/lal.png",
+                    "winner": false,
+                    "displayName": "Los Angeles Lakers",
+                    "name": "Lakers",
+                    "abbreviation": "LAL",
+                    "location": "Los Angeles",
+                    "color": "542582",
+                    "alternateColor": "552582",
+                    "group": "4",
+                    "competitionIdPrevious": "401360128",
+                    "competitionIdNext": "401360165"
+                }],
+                "appLinks": [{
+                    "language": "en-US",
+                    "rel": ["summary", "sportscenter", "app", "event"],
+                    "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401360142",
+                    "text": "Gamecast",
+                    "shortText": "Summary",
+                    "isExternal": false,
+                    "isPremium": false
+                }],
+                "league": {
+                    "uid": "s:40~l:46",
+                    "name": "National Basketball Association",
+                    "id": "46",
+                    "abbreviation": "NBA",
+                    "shortName": "NBA",
+                    "slug": "nba"
+                }
+            }],
+            "nowFeed": [{
+                "type": "HeadlineNews",
+                "nowId": "1-32756620",
+                "premium": false,
+                "links": {
+                    "web": {
+                        "href": "https://www.espn.com/nba/story/_/id/32756620/lebron-james-health-safety-protocols-tuesday-los-angeles-lakers"
+                    }
+                },
+                "lastModified": 1638319667000,
+                "headline": "Los Angeles Lakers' LeBron James in health and safety protocols; expected to miss several games, sources say"
+            }],
+            "isLive": false,
+            "isLeagueInSeason": true
+        },
+        "sortGlobal": 27,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 2,
+        "affinity": 1,
+        "type": {
+            "id": 2,
+            "name": "Favorite Teams",
+            "code": "teams",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 50
+        }
+    }, {
+        "id": "34C0D86C-763D-4AF4-BCD6-635ED97140BD",
+        "createDate": 1616377212042,
+        "createSource": "espnapp-ios-handset_en-us",
+        "metaData": {
+            "sportId": "41",
+            "teamId": "249",
+            "team": {
+                "uid": "s:40~l:41~t:249",
+                "slug": "north-texas-mean-green",
+                "location": "North Texas",
+                "name": "Mean Green",
+                "abbreviation": "UNT",
+                "color": "00853d",
+                "text": "North Texas Mean Green",
+                "sportName": "NCAA - Men's Basketball",
+                "alternateAbbreviation": "UNT",
+                "secondaryColor": "000000",
+                "sportSlug": "mens-college-basketball",
+                "sportAbbreviation": "NCAAM",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/249?lang=en&region=us"
+                },
+                "shortDisplayName": "North Texas",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["clubhouse", "desktop", "team"],
+                    "href": "https://www.espn.com/mens-college-basketball/team/_/id/249/north-texas-mean-green",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["roster", "desktop", "team"],
+                    "href": "http://www.espn.com/mens-college-basketball/team/roster/_/id/249",
+                    "text": "Roster",
+                    "shortText": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "team"],
+                    "href": "http://www.espn.com/mens-college-basketball/team/stats/_/id/249",
+                    "text": "Statistics",
+                    "shortText": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "team"],
+                    "href": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/249",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["photos", "desktop", "team"],
+                    "href": "http://www.espn.com/mens-college-basketball/team/photos/_/id/249",
+                    "text": "photos",
+                    "shortText": "photos",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "team"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:41~t:249&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            },
+            "events": [{
+                "gamecastAvailable": false,
+                "playByPlayAvailable": false,
+                "commentaryAvailable": false,
+                "recent": false,
+                "id": "401372398",
+                "competitionId": "401372398",
+                "uid": "s:40~l:41~e:401372398~c:401372398",
+                "date": "2021-12-04T19:00:00Z",
+                "timeValid": true,
+                "name": "Nevada Wolf Pack at North Texas Mean Green",
+                "shortName": "NEV @ UNT",
+                "location": "UNT Coliseum",
+                "season": 2022,
+                "seasonStartDate": "2021-07-01T07:00:00Z",
+                "seasonEndDate": "2022-03-14T06:59:00Z",
+                "seasonType": "2",
+                "seasonTypeHasGroups": false,
+                "group": {
+                    "groupId": "2",
+                    "name": "Regular Season",
+                    "abbreviation": "reg",
+                    "shortName": "REG"
+                },
+                "week": 4,
+                "weekText": "Week 4",
+                "period": 0,
+                "clock": "0:00",
+                "status": "pre",
+                "summary": "12/4 - 2:00 PM EST",
+                "fullStatus": {
+                    "clock": 0.0,
+                    "displayClock": "0:00",
+                    "period": 0,
+                    "type": {
+                        "id": "1",
+                        "name": "STATUS_SCHEDULED",
+                        "state": "pre",
+                        "completed": false,
+                        "description": "Scheduled",
+                        "detail": "Sat, December 4th at 2:00 PM EST",
+                        "shortDetail": "12/4 - 2:00 PM EST"
+                    }
+                },
+                "link": "http://www.espn.com/mens-college-basketball/game/_/gameId/401372398",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["summary", "desktop", "event"],
+                    "href": "http://www.espn.com/mens-college-basketball/game/_/gameId/401372398",
+                    "text": "Gamecast",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["tickets", "desktop", "event"],
+                    "href": "https://www.vividseats.com/ncaab/north-texas-mean-green-tickets/north-texas-12-4-3758308.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["tickets", "desktop", "venue"],
+                    "href": "https://www.vividseats.com/venues/unt-coliseum-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                }],
+                "onWatch": false,
+                "competitors": [{
+                    "id": "249",
+                    "uid": "s:40~l:41~t:249",
+                    "type": "team",
+                    "order": 0,
+                    "homeAway": "home",
+                    "score": "",
+                    "record": "3-3",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/249.png",
+                    "winner": false,
+                    "displayName": "North Texas Mean Green",
+                    "name": "North Texas",
+                    "abbreviation": "UNT",
+                    "location": "North Texas",
+                    "color": "00853D",
+                    "alternateColor": "000000",
+                    "group": "65",
+                    "competitionIdPrevious": "401376719",
+                    "competitionIdNext": "401371970"
+                }, {
+                    "id": "2440",
+                    "uid": "s:40~l:41~t:2440",
+                    "type": "team",
+                    "order": 1,
+                    "homeAway": "away",
+                    "score": "",
+                    "record": "3-4",
+                    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2440.png",
+                    "winner": false,
+                    "displayName": "Nevada Wolf Pack",
+                    "name": "Nevada",
+                    "abbreviation": "NEV",
+                    "location": "Nevada",
+                    "color": "153E5F",
+                    "alternateColor": "8e9295",
+                    "group": "44",
+                    "competitionIdPrevious": "401371276",
+                    "competitionIdNext": "401372399"
+                }],
+                "appLinks": [{
+                    "language": "en-US",
+                    "rel": ["summary", "sportscenter", "app", "event"],
+                    "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=mens-college-basketball&gameId=401372398",
+                    "text": "Gamecast",
+                    "shortText": "Summary",
+                    "isExternal": false,
+                    "isPremium": false
+                }],
+                "league": {
+                    "uid": "s:40~l:41",
+                    "name": "NCAA Men's Basketball",
+                    "id": "41",
+                    "abbreviation": "NCAAM",
+                    "shortName": "NCAAM",
+                    "slug": "mens-college-basketball"
+                }
+            }],
+            "nowFeed": [{
+                "type": "Media",
+                "nowId": "1-32714564",
+                "premium": false,
+                "links": {
+                    "web": {
+                        "href": "http://www.espn.com/video/clip?id=32714564"
+                    }
+                },
+                "lastModified": 1637906951000,
+                "headline": "No. 4 Kansas takes care of North Texas in Orlando"
+            }],
+            "isLive": false,
+            "isLeagueInSeason": true
+        },
+        "sortGlobal": 79,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 2,
+        "affinity": 0,
+        "type": {
+            "id": 2,
+            "name": "Favorite Teams",
+            "code": "teams",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 50
+        }
+    }, {
+        "id": "C6310D07-82A7-4234-AC37-770E2BE43157",
+        "createDate": 1631400787118,
+        "createSource": "espnapp-ios-handset_en-us",
+        "metaData": {
+            "sportId": "600",
+            "teamId": "364",
+            "team": {
+                "uid": "s:600~t:364",
+                "slug": "liverpool",
+                "location": "Liverpool",
+                "name": "Reds",
+                "abbreviation": "LIV",
+                "color": "d00027",
+                "text": "Liverpool",
+                "sportName": "Soccer",
+                "alternateAbbreviation": "ENG.LIVERPOOL",
+                "secondaryColor": "ece2d9",
+                "sportSlug": "soccer",
+                "sportAbbreviation": "Soccer",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/soccer/leagues/eng.1/seasons/2021/teams/364?lang=en&region=us"
+                },
+                "shortDisplayName": "Liverpool",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["clubhouse", "desktop", "team"],
+                    "href": "http://www.espn.com/soccer/club/_/id/364/liverpool",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "team"],
+                    "href": "http://www.espn.com/soccer/team/stats/_/id/364/liverpool",
+                    "text": "Stats",
+                    "shortText": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "team"],
+                    "href": "http://www.espn.com/soccer/team/fixtures/_/id/364/liverpool",
+                    "text": "Fixtures",
+                    "shortText": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "team"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:364&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["results", "desktop", "team"],
+                    "href": "http://www.espn.com/soccer/team/results/_/id/364/liverpool",
+                    "text": "Results",
+                    "shortText": "Results",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "desktop", "team"],
+                    "href": "http://www.espn.com/soccer/standings/_/league/eng.1",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["squad", "desktop", "team"],
+                    "href": "http://www.espn.com/soccer/team/squad/_/id/364/liverpool",
+                    "text": "Squad",
+                    "shortText": "Squad",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            },
+            "events": [{
+                "gamecastAvailable": true,
+                "playByPlayAvailable": true,
+                "commentaryAvailable": false,
+                "recent": false,
+                "id": "605907",
+                "competitionId": "605907",
+                "uid": "s:600~l:700~e:605907~c:605907",
+                "date": "2021-12-01T20:15:00Z",
+                "timeValid": true,
+                "name": "2021-22 English Premier League",
+                "shortName": "2021-22 English Premier League",
+                "location": "Goodison Park",
+                "season": 2021,
+                "seasonStartDate": "2021-06-01T04:00:00Z",
+                "seasonEndDate": "2022-06-01T03:59:00Z",
+                "seasonType": "1",
+                "seasonTypeHasGroups": false,
+                "group": {
+                    "groupId": "1",
+                    "name": "2021-22 English Premier League",
+                    "abbreviation": "2021-22 English Premier League",
+                    "shortName": "2021-22 ENGLISH PREMIER LEAGUE"
+                },
+                "period": 0,
+                "clock": "0'",
+                "addedClock": 0.0,
+                "status": "pre",
+                "summary": "12/1 - 3:15 PM EST",
+                "fullStatus": {
+                    "clock": 0.0,
+                    "addedClock": 0.0,
+                    "displayClock": "0'",
+                    "period": 0,
+                    "type": {
+                        "id": "1",
+                        "name": "STATUS_SCHEDULED",
+                        "state": "pre",
+                        "completed": false,
+                        "description": "Scheduled",
+                        "detail": "Wed, December 1st at 3:15 PM EST",
+                        "shortDetail": "12/1 - 3:15 PM EST"
+                    }
+                },
+                "link": "http://www.espn.com/soccer/match/_/gameId/605907",
+                "links": [{
+                    "rel": ["summary", "desktop", "event"],
+                    "href": "http://www.espn.com/soccer/match/_/gameId/605907",
+                    "text": "Summary"
+                }, {
+                    "rel": ["stats", "desktop", "event"],
+                    "href": "http://www.espn.com/soccer/matchstats?gameId=605907",
+                    "text": "Statistics"
+                }, {
+                    "rel": ["standings", "desktop", "event"],
+                    "href": "http://www.espn.com/soccer/table/_/league/eng.1",
+                    "text": "Table"
+                }],
+                "onWatch": false,
+                "odds": {
+                    "provider": {
+                        "id": "45",
+                        "name": "Caesars Sportsbook (NJ)",
+                        "priority": 1
+                    },
+                    "overUnder": 2.5,
+                    "overOdds": -170.0,
+                    "underOdds": 140.0,
+                    "awayTeamOdds": {
+                        "favorite": false,
+                        "underdog": true,
+                        "moneyLine": -250,
+                        "team": {
+                            "id": "364",
+                            "abbreviation": "LIV"
+                        }
+                    },
+                    "homeTeamOdds": {
+                        "favorite": true,
+                        "underdog": false,
+                        "moneyLine": 675,
+                        "team": {
+                            "id": "368",
+                            "abbreviation": "EVE"
+                        }
+                    },
+                    "drawOdds": {
+                        "moneyLine": 380.0
+                    },
+                    "links": [],
+                    "moneylineWinner": false,
+                    "spreadWinner": false,
+                    "details": "EVE 675",
+                    "home": {
+                        "moneyLine": 675
+                    },
+                    "away": {
+                        "moneyLine": -250
+                    },
+                    "draw": {
+                        "moneyLine": 380.0
+                    }
+                },
+                "competitors": [{
+                    "id": "368",
+                    "uid": "s:600~t:368",
+                    "type": "team",
+                    "order": 0,
+                    "homeAway": "home",
+                    "winner": false,
+                    "score": "",
+                    "record": "4-3-6",
+                    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/368.png",
+                    "form": "LLDLL",
+                    "displayName": "Everton",
+                    "name": "Everton",
+                    "abbreviation": "EVE",
+                    "location": "Everton",
+                    "color": "0000ff",
+                    "alternateColor": "231F20",
+                    "isNational": false,
+                    "group": "1",
+                    "competitionIdPrevious": "605910",
+                    "competitionIdNext": "605889"
+                }, {
+                    "id": "364",
+                    "uid": "s:600~t:364",
+                    "type": "team",
+                    "order": 1,
+                    "homeAway": "away",
+                    "winner": false,
+                    "score": "",
+                    "record": "8-4-1",
+                    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+                    "logoDark": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/364.png",
+                    "form": "WWWLW",
+                    "displayName": "Liverpool",
+                    "name": "Liverpool",
+                    "abbreviation": "LIV",
+                    "location": "Liverpool",
+                    "color": "D00027",
+                    "alternateColor": "ece2d9",
+                    "isNational": false,
+                    "group": "1",
+                    "competitionIdPrevious": "605914",
+                    "competitionIdNext": "605896"
+                }],
+                "appLinks": [],
+                "league": {
+                    "uid": "s:600~l:700",
+                    "name": "English Premier League",
+                    "id": "700",
+                    "abbreviation": "Prem",
+                    "shortName": "Premier League",
+                    "slug": "eng.1"
+                }
+            }],
+            "nowFeed": [{
+                "type": "Media",
+                "nowId": "16-4535338",
+                "premium": false,
+                "links": {
+                    "web": {
+                        "href": "http://www.espn.com/soccer/video/latest-videos/600/video/4535338"
+                    }
+                },
+                "lastModified": 1638302181000,
+                "headline": "Klopp: Salah, Lewandowski overlooked in Ballon d'Or voting"
+            }],
+            "isLive": false,
+            "isLeagueInSeason": true
+        },
+        "sortGlobal": 81,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 2,
+        "affinity": 0,
+        "type": {
+            "id": 2,
+            "name": "Favorite Teams",
+            "code": "teams",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 50
+        }
+    }, {
+        "id": "1:1242060:1:2021",
+        "createDate": 1615745070524,
+        "lastUpdateDate": 1638262678926,
+        "createSource": "Fantasy_Client_V2-LM-NextGen",
+        "lastUpdateSource": "Fantasy_Client_V2-LM-NextGen",
+        "metaData": {
+            "entry": {
+                "createDate": 1638262678921,
+                "entryId": 1,
+                "entryLocation": "This Kupp",
+                "entryMetadata": {
+                    "teamAbbrev": "FAJ",
+                    "leagueFormatTypeId": 0,
+                    "pointsDelta": 0.0,
+                    "leagueSubTypeId": 0,
+                    "streakLength": 2,
+                    "customizable": true,
+                    "active": true,
+                    "nextGen": true,
+                    "draftComplete": true,
+                    "scoringTypeId": 1,
+                    "streakType": 2,
+                    "leagueTypeId": 0,
+                    "draftInProgress": false
+                },
+                "entryNickname": "Hurts",
+                "gameId": 1,
+                "groups": [{
+                    "groupId": 1242060,
+                    "wins": 9,
+                    "losses": 3,
+                    "ties": 0,
+                    "groupSize": 12,
+                    "groupName": "Vretheren",
+                    "groupManager": true,
+                    "draftDate": 1629565200000,
+                    "draftType": 1,
+                    "draftStatus": 2,
+                    "leagueStatus": 3,
+                    "createDate": 1638262678921,
+                    "lastUpdate": 1638262678921,
+                    "points": 1523.4399999999998,
+                    "rank": -2147483648,
+                    "fantasyCastHref": "https://fantasy.espn.com/football/fantasycast?leagueId=1242060&teamId=1",
+                    "href": "https://fantasy.espn.com/football/league?leagueId=1242060&seasonId=2021"
+                }],
+                "lastUpdate": 1638262678921,
+                "logoType": "CUSTOM_VALID",
+                "logoUrl": "https://i.ytimg.com/vi/OGk1sando0w/maxresdefault.jpg",
+                "losses": 3,
+                "points": 0.0,
+                "rank": 1,
+                "restrictionType": 0,
+                "seasonId": 2021,
+                "ties": 0,
+                "wins": 9,
+                "entryURL": "https://fantasy.espn.com/football/team?leagueId=1242060&teamId=1&seasonId=2021",
+                "scoreboardFeedURL": "https://fantasy.espn.com/apis/v3/games/ffl/seasons/2021/segments/0/leagues/1242060?view=mScoreboard&filter=%7B%22schedule%22%3A%7B%22filterTeamIds%22%3A%7B%22value%22%3A%5B1%5D%7D%2C%22filterCurrentMatchupPeriod%22%3A%7B%22value%22%3Atrue%7D%7D%7D",
+                "abbrev": "FFL",
+                "name": "Fantasy Football",
+                "description": "ESPN Fantasy Football",
+                "logoURL": "https://g.espncdn.com/s/ffllm/14/images/shell/bgHead_leaguemanager.png",
+                "signupURL": "https://fantasy.espn.com/football/welcome",
+                "href": "https://www.espn.com/fantasy/football/"
+            },
+            "inSeason": true,
+            "isLive": false,
+            "nowFeed": [{
+                "type": "Story",
+                "nowId": "1-32142977",
+                "premium": false,
+                "links": {
+                    "web": {
+                        "href": "https://www.espn.com/fantasy/football/story/_/page/21ranksweeklyKnonppr/fantasy-football-weekly-kicker-rankings-2021"
+                    }
+                },
+                "lastModified": 1638289249000,
+                "headline": "Fantasy football kicker rankings: NFL Week 13"
+            }]
+        },
+        "sortGlobal": 76,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 9,
+        "affinity": 0,
+        "type": {
+            "id": 9,
+            "name": "Fantasy League Manager",
+            "code": "fantasy",
+            "isDeletable": false,
+            "isDelegated": false,
+            "maxAllowed": 500
+        }
+    }, {
+        "id": "1:1989688176:1:2021",
+        "createDate": 1626959806920,
+        "lastUpdateDate": 1638265453013,
+        "createSource": "Fantasy_Client_V2-LM-NextGen",
+        "lastUpdateSource": "Fantasy_Client_V2-LM-NextGen",
+        "metaData": {
+            "entry": {
+                "createDate": 1638265453006,
+                "entryId": 1,
+                "entryLocation": "Legsleeve",
+                "entryMetadata": {
+                    "teamAbbrev": "DAVE",
+                    "leagueFormatTypeId": 3,
+                    "pointsDelta": 0.0,
+                    "leagueSubTypeId": 0,
+                    "streakLength": 4,
+                    "customizable": true,
+                    "active": true,
+                    "nextGen": true,
+                    "draftComplete": true,
+                    "scoringTypeId": 1,
+                    "streakType": 2,
+                    "leagueTypeId": 0,
+                    "draftInProgress": false
+                },
+                "entryNickname": "Demon",
+                "gameId": 1,
+                "groups": [{
+                    "groupId": 1989688176,
+                    "wins": 7,
+                    "losses": 5,
+                    "ties": 0,
+                    "groupSize": 12,
+                    "groupName": "Immortal Gang",
+                    "groupManager": true,
+                    "draftDate": 1630281600000,
+                    "draftType": 1,
+                    "draftStatus": 2,
+                    "leagueStatus": 3,
+                    "createDate": 1638265453006,
+                    "lastUpdate": 1638265453006,
+                    "points": 1583.3400000000004,
+                    "rank": -2147483648,
+                    "fantasyCastHref": "https://fantasy.espn.com/football/fantasycast?leagueId=1989688176&teamId=1",
+                    "href": "https://fantasy.espn.com/football/league?leagueId=1989688176&seasonId=2021"
+                }],
+                "lastUpdate": 1638265453006,
+                "logoType": "CUSTOM_VALID",
+                "logoUrl": "https://cdn.vox-cdn.com/thumbor/9CZoleflD5b9Ghsg8ieFq7_zvzQ=/0x0:3578x2520/1200x800/filters:focal(1805x411:2377x983)/cdn.vox-cdn.com/uploads/chorus_image/image/70030354/1347909094.0.jpg",
+                "losses": 5,
+                "points": 0.0,
+                "rank": 4,
+                "restrictionType": 0,
+                "seasonId": 2021,
+                "ties": 0,
+                "wins": 7,
+                "entryURL": "https://fantasy.espn.com/football/team?leagueId=1989688176&teamId=1&seasonId=2021",
+                "scoreboardFeedURL": "https://fantasy.espn.com/apis/v3/games/ffl/seasons/2021/segments/0/leagues/1989688176?view=mScoreboard&filter=%7B%22schedule%22%3A%7B%22filterTeamIds%22%3A%7B%22value%22%3A%5B1%5D%7D%2C%22filterCurrentMatchupPeriod%22%3A%7B%22value%22%3Atrue%7D%7D%7D",
+                "abbrev": "FFL",
+                "name": "Fantasy Football",
+                "description": "ESPN Fantasy Football",
+                "logoURL": "https://g.espncdn.com/s/ffllm/14/images/shell/bgHead_leaguemanager.png",
+                "signupURL": "https://fantasy.espn.com/football/welcome",
+                "href": "https://www.espn.com/fantasy/football/"
+            },
+            "inSeason": true,
+            "isLive": false,
+            "nowFeed": [{
+                "type": "Media",
+                "nowId": "1-32754760",
+                "premium": false,
+                "links": {
+                    "web": {
+                        "href": "http://www.espn.com/video/clip?id=32754760"
+                    }
+                },
+                "lastModified": 1638299322000,
+                "headline": "Mattison is Yates' top waiver-wire pickup to replace Cook"
+            }]
+        },
+        "sortGlobal": 80,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 9,
+        "affinity": 0,
+        "type": {
+            "id": 9,
+            "name": "Fantasy League Manager",
+            "code": "fantasy",
+            "isDeletable": false,
+            "isDelegated": false,
+            "maxAllowed": 500
+        }
+    }, {
+        "id": "7:204259:1:2021",
+        "createDate": 1615752526436,
+        "lastUpdateDate": 1638262055910,
+        "createSource": "Fantasy_Client_V2-LM-NextGen",
+        "lastUpdateSource": "Fantasy_Client_V2-LM-NextGen",
+        "metaData": {
+            "entry": {
+                "createDate": 1638262055901,
+                "entryId": 7,
+                "entryLocation": "Zekes",
+                "entryMetadata": {
+                    "teamAbbrev": "FAJI",
+                    "leagueFormatTypeId": 0,
+                    "pointsDelta": 0.0,
+                    "leagueSubTypeId": 0,
+                    "streakLength": 1,
+                    "customizable": true,
+                    "active": true,
+                    "nextGen": true,
+                    "draftComplete": true,
+                    "scoringTypeId": 1,
+                    "streakType": 2,
+                    "leagueTypeId": 0,
+                    "draftInProgress": false
+                },
+                "entryNickname": "Meat",
+                "gameId": 1,
+                "groups": [{
+                    "groupId": 204259,
+                    "wins": 5,
+                    "losses": 7,
+                    "ties": 0,
+                    "groupSize": 12,
+                    "groupName": "Big Baller League",
+                    "groupManager": false,
+                    "draftDate": 1629666000000,
+                    "draftType": 1,
+                    "draftStatus": 2,
+                    "leagueStatus": 3,
+                    "createDate": 1638262055901,
+                    "lastUpdate": 1638262055901,
+                    "points": 1481.5799999999997,
+                    "rank": -2147483648,
+                    "fantasyCastHref": "https://fantasy.espn.com/football/fantasycast?leagueId=204259&teamId=7",
+                    "href": "https://fantasy.espn.com/football/league?leagueId=204259&seasonId=2021"
+                }],
+                "lastUpdate": 1638262055901,
+                "logoType": "CUSTOM_VALID",
+                "logoUrl": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/v1628455300/eagles/zuftq3b6azlzvkoznb2v.png",
+                "losses": 7,
+                "points": 0.0,
+                "rank": 8,
+                "restrictionType": 0,
+                "seasonId": 2021,
+                "ties": 0,
+                "wins": 5,
+                "entryURL": "https://fantasy.espn.com/football/team?leagueId=204259&teamId=7&seasonId=2021",
+                "scoreboardFeedURL": "https://fantasy.espn.com/apis/v3/games/ffl/seasons/2021/segments/0/leagues/204259?view=mScoreboard&filter=%7B%22schedule%22%3A%7B%22filterTeamIds%22%3A%7B%22value%22%3A%5B7%5D%7D%2C%22filterCurrentMatchupPeriod%22%3A%7B%22value%22%3Atrue%7D%7D%7D",
+                "abbrev": "FFL",
+                "name": "Fantasy Football",
+                "description": "ESPN Fantasy Football",
+                "logoURL": "https://g.espncdn.com/s/ffllm/14/images/shell/bgHead_leaguemanager.png",
+                "signupURL": "https://fantasy.espn.com/football/welcome",
+                "href": "https://www.espn.com/fantasy/football/"
+            },
+            "inSeason": true,
+            "isLive": false,
+            "nowFeed": [{
+                "type": "Story",
+                "nowId": "1-32142974",
+                "premium": false,
+                "links": {
+                    "web": {
+                        "href": "https://www.espn.com/fantasy/football/story/_/page/21ranksweeklyDSTnonppr/fantasy-football-weekly-defense-special-teams-d-st-rankings-2021"
+                    }
+                },
+                "lastModified": 1638289320000,
+                "headline": "Fantasy football D/ST rankings: NFL Week 13"
+            }]
+        },
+        "sortGlobal": 77,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 9,
+        "affinity": 0,
+        "type": {
+            "id": 9,
+            "name": "Fantasy League Manager",
+            "code": "fantasy",
+            "isDeletable": false,
+            "isDelegated": false,
+            "maxAllowed": 500
+        }
+    }, {
+        "id": "7909673:151:2015",
+        "createDate": 1500414715455,
+        "lastUpdateDate": 1502917059100,
+        "createSource": "Fantasy_Client_V2-STREAK",
+        "lastUpdateSource": "fantasyapp-ios",
+        "metaData": {
+            "entry": {
+                "rank": 0,
+                "percentile": 0.0,
+                "entryNickname": "Khafaji25 Entry",
+                "lastUpdate": 1500435673296,
+                "gameId": 151,
+                "seasonId": 2015,
+                "points": 1.0,
+                "createDate": 1500435673296,
+                "entryId": 7909673,
+                "entryURL": "http://streak.espn.com/",
+                "abbrev": "STK",
+                "name": "Streak",
+                "description": "ESPN's Streak",
+                "logoURL": "https://a1.espncdn.com/redesign/assets/img/logos/fantasy/streak-for-cash.png",
+                "signupURL": null,
+                "href": "http://streak.espn.com/"
+            },
+            "inSeason": true,
+            "isLive": false
+        },
+        "sortGlobal": 48,
+        "isImplicit": false,
+        "isHidden": true,
+        "typeId": 10,
+        "affinity": 0,
+        "type": {
+            "id": 10,
+            "name": "Max Part Games",
+            "code": "maxpart",
+            "isDeletable": false,
+            "isDelegated": false,
+            "maxAllowed": 200
+        }
+    }, {
+        "id": "C9D7EB65-F3DC-4E19-9AE7-54E73AE65B85",
+        "createDate": 1455122649386,
+        "lastUpdateDate": 1513276498589,
+        "createSource": "espnapp-ios-handset",
+        "lastUpdateSource": "fuse-v2-batch",
+        "metaData": {
+            "sportId": "10",
+            "teamId": "10",
+            "team": {
+                "uid": "s:1~l:10~t:10",
+                "slug": "new-york-yankees",
+                "location": "New York",
+                "name": "Yankees",
+                "abbreviation": "NYY",
+                "color": "011739",
+                "text": "New York Yankees",
+                "sportName": "Major League Baseball",
+                "alternateAbbreviation": "NYY",
+                "secondaryColor": "c4ced4",
+                "sportSlug": "mlb",
+                "sportAbbreviation": "MLB",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2022/teams/10?lang=en&region=us"
+                },
+                "shortDisplayName": "Yankees",
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["clubhouse", "desktop", "team"],
+                    "href": "https://www.espn.com/mlb/team/_/name/nyy/new-york-yankees",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["roster", "desktop", "team"],
+                    "href": "http://www.espn.com/mlb/team/roster/_/name/nyy/new-york-yankees",
+                    "text": "Roster",
+                    "shortText": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "team"],
+                    "href": "http://www.espn.com/mlb/team/stats/_/name/nyy/new-york-yankees",
+                    "text": "Statistics",
+                    "shortText": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "team"],
+                    "href": "https://www.espn.com/mlb/team/schedule/_/name/nyy",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["photos", "desktop", "team"],
+                    "href": "https://www.espn.com/mlb/team/photos/_/name/nyy",
+                    "text": "photos",
+                    "shortText": "photos",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "team"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:10~t:10&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["transactions", "desktop", "team"],
+                    "href": "https://www.espn.com/mlb/team/transactions/_/name/nyy",
+                    "text": "Transactions",
+                    "shortText": "Transactions",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["injuries", "desktop", "team"],
+                    "href": "https://www.espn.com/mlb/team/injuries/_/name/nyy",
+                    "text": "Injuries",
+                    "shortText": "Injuries",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["depthchart", "desktop", "team"],
+                    "href": "https://www.espn.com/mlb/team/depth/_/name/nyy",
+                    "text": "Depth Chart",
+                    "shortText": "Depth Chart",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            },
+            "events": null,
+            "nowFeed": [{
+                "type": "HeadlineNews",
+                "nowId": "1-32735756",
+                "premium": false,
+                "links": {
+                    "web": {
+                        "href": "https://www.espn.com/mlb/story/_/id/32735756/reports-tampa-bay-rays-add-veteran-corey-kluber-rotation-one-year-deal"
+                    }
+                },
+                "lastModified": 1638136364000,
+                "headline": "Source: Tampa Bay Rays add veteran Corey Kluber to rotation on one-year deal"
+            }],
+            "isLive": false,
+            "isLeagueInSeason": false
+        },
+        "sortGlobal": 28,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 2,
+        "affinity": 1,
+        "type": {
+            "id": 2,
+            "name": "Favorite Teams",
+            "code": "teams",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 50
+        }
+    }, {
+        "id": "9AFCB769-B5E7-46A0-8FC8-A974D6F8A40C",
+        "createDate": 1455122619162,
+        "lastUpdateDate": 1514632101445,
+        "createSource": "espnapp-ios-handset",
+        "lastUpdateSource": "fuse-v2-batch",
+        "metaData": {
+            "sportId": "23",
+            "sport": {
+                "uid": "s:20~l:23",
+                "name": "NCAA - Football",
+                "slug": "college-football",
+                "abbreviation": "NCAAF",
+                "parentId": "20",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football?lang=en&region=us",
+                    "midsizeName": "NCAA Football"
+                },
+                "alternateId": 3367,
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["index", "desktop", "league"],
+                    "href": "https://www.espn.com/college-football/",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["index", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "league"],
+                    "href": "https://www.espn.com/college-football/schedule",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "desktop", "league"],
+                    "href": "http://www.espn.com/college-football/standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["rankings", "desktop", "league"],
+                    "href": "https://www.espn.com/college-football/rankings",
+                    "text": "Rankings",
+                    "shortText": "Rankings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "desktop", "league"],
+                    "href": "http://www.espn.com/college-football/scoreboard",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "league"],
+                    "href": "http://www.espn.com/college-football/stats",
+                    "text": "Stats",
+                    "shortText": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["teams", "desktop", "league"],
+                    "href": "http://www.espn.com/college-football/teams",
+                    "text": "Teams",
+                    "shortText": "Teams",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["athletes", "desktop", "league"],
+                    "href": "http://www.espn.com/college-football/players",
+                    "text": "Players",
+                    "shortText": "Players",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["injuries", "desktop", "league"],
+                    "href": "https://www.espn.com/college-football/injuries",
+                    "text": "Injuries",
+                    "shortText": "Injuries",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            }
+        },
+        "sortGlobal": 24,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 1,
+        "affinity": 0,
+        "type": {
+            "id": 1,
+            "name": "Favorite Sports",
+            "code": "sports",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 20
+        }
+    }, {
+        "id": "38EAC09D-B0BE-4CE1-AB72-F0B3FDA391E3",
+        "createDate": 1455122636507,
+        "lastUpdateDate": 1514632382074,
+        "createSource": "espnapp-ios-handset",
+        "lastUpdateSource": "fuse-v2-batch",
+        "metaData": {
+            "sportId": "10",
+            "sport": {
+                "uid": "s:1~l:10",
+                "name": "Major League Baseball",
+                "slug": "mlb",
+                "abbreviation": "MLB",
+                "parentId": "1",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb?lang=en&region=us",
+                    "midsizeName": "MLB"
+                },
+                "alternateId": 4061,
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["index", "desktop", "league"],
+                    "href": "https://www.espn.com/mlb/",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["index", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:10",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "league"],
+                    "href": "https://www.espn.com/mlb/schedule",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:10&section=scores",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "desktop", "league"],
+                    "href": "http://www.espn.com/mlb/standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:10&section=standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["rankings", "desktop", "league"],
+                    "href": "https://www.espn.com/mlb/rankings",
+                    "text": "Rankings",
+                    "shortText": "Rankings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "desktop", "league"],
+                    "href": "http://www.espn.com/mlb/scoreboard",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:10&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "league"],
+                    "href": "http://www.espn.com/mlb/stats",
+                    "text": "Stats",
+                    "shortText": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["teams", "desktop", "league"],
+                    "href": "http://www.espn.com/mlb/teams",
+                    "text": "Teams",
+                    "shortText": "Teams",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["athletes", "desktop", "league"],
+                    "href": "http://www.espn.com/mlb/players",
+                    "text": "Players",
+                    "shortText": "Players",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["injuries", "desktop", "league"],
+                    "href": "https://www.espn.com/mlb/injuries",
+                    "text": "Injuries",
+                    "shortText": "Injuries",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            }
+        },
+        "sortGlobal": 25,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 1,
+        "affinity": 0,
+        "type": {
+            "id": 1,
+            "name": "Favorite Sports",
+            "code": "sports",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 20
+        }
+    }, {
+        "id": "83555DB0-342D-4435-BBF3-71D30D6526D8",
+        "createDate": 1455122615403,
+        "lastUpdateDate": 1521890686573,
+        "createSource": "espnapp-ios-handset",
+        "lastUpdateSource": "fuse-v2-batch",
+        "metaData": {
+            "sportId": "46",
+            "sport": {
+                "uid": "s:40~l:46",
+                "name": "National Basketball Association",
+                "slug": "nba",
+                "abbreviation": "NBA",
+                "parentId": "40",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba?lang=en&region=us"
+                },
+                "alternateId": 3180,
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["index", "desktop", "league"],
+                    "href": "https://www.espn.com/nba/",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["index", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "league"],
+                    "href": "https://www.espn.com/nba/schedule",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46&section=scores",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "desktop", "league"],
+                    "href": "http://www.espn.com/nba/standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46&section=standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["rankings", "desktop", "league"],
+                    "href": "https://www.espn.com/nba/rankings",
+                    "text": "Rankings",
+                    "shortText": "Rankings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "desktop", "league"],
+                    "href": "http://www.espn.com/nba/scoreboard",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "league"],
+                    "href": "http://www.espn.com/nba/stats",
+                    "text": "Stats",
+                    "shortText": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["teams", "desktop", "league"],
+                    "href": "http://www.espn.com/nba/teams",
+                    "text": "Teams",
+                    "shortText": "Teams",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["athletes", "desktop", "league"],
+                    "href": "http://www.espn.com/nba/players",
+                    "text": "Players",
+                    "shortText": "Players",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["injuries", "desktop", "league"],
+                    "href": "https://www.espn.com/nba/injuries",
+                    "text": "Injuries",
+                    "shortText": "Injuries",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            }
+        },
+        "sortGlobal": 21,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 1,
+        "affinity": 2,
+        "type": {
+            "id": 1,
+            "name": "Favorite Sports",
+            "code": "sports",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 20
+        }
+    }, {
+        "id": "2E8117CD-441D-4FB7-9E1B-E95A0768BD88",
+        "createDate": 1455122616761,
+        "lastUpdateDate": 1522151534927,
+        "createSource": "espnapp-ios-handset",
+        "lastUpdateSource": "fuse-v2-batch",
+        "metaData": {
+            "sportId": "28",
+            "sport": {
+                "uid": "s:20~l:28",
+                "name": "National Football League",
+                "slug": "nfl",
+                "abbreviation": "NFL",
+                "parentId": "20",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl?lang=en&region=us"
+                },
+                "alternateId": 3369,
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["index", "desktop", "league"],
+                    "href": "https://www.espn.com/nfl/",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["index", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "league"],
+                    "href": "https://www.espn.com/nfl/schedule",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=scores",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "desktop", "league"],
+                    "href": "http://www.espn.com/nfl/standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["rankings", "desktop", "league"],
+                    "href": "http://www.espn.com/nfl/powerrankings",
+                    "text": "Power Rankings",
+                    "shortText": "Power Rankings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "desktop", "league"],
+                    "href": "http://www.espn.com/nfl/scoreboard",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "league"],
+                    "href": "http://www.espn.com/nfl/stats",
+                    "text": "Stats",
+                    "shortText": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["teams", "desktop", "league"],
+                    "href": "http://www.espn.com/nfl/teams",
+                    "text": "Teams",
+                    "shortText": "Teams",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["athletes", "desktop", "league"],
+                    "href": "http://www.espn.com/nfl/players",
+                    "text": "Players",
+                    "shortText": "Players",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["injuries", "desktop", "league"],
+                    "href": "https://www.espn.com/nfl/injuries",
+                    "text": "Injuries",
+                    "shortText": "Injuries",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["freeagency", "desktop", "league"],
+                    "href": "http://insider.espn.com/nfl/freeagency/",
+                    "text": "Freeagency",
+                    "shortText": "Freeagency",
+                    "isExternal": false,
+                    "isPremium": true
+                }]
+            }
+        },
+        "sortGlobal": 22,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 1,
+        "affinity": 2,
+        "type": {
+            "id": 1,
+            "name": "Favorite Sports",
+            "code": "sports",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 20
+        }
+    }, {
+        "id": "1AA41EF6-4664-4BFC-B20A-0C26EA271F00",
+        "createDate": 1455122618009,
+        "lastUpdateDate": 1514632305556,
+        "createSource": "espnapp-ios-handset",
+        "lastUpdateSource": "fuse-v2-batch",
+        "metaData": {
+            "sportId": "41",
+            "sport": {
+                "uid": "s:40~l:41",
+                "name": "NCAA - Men's Basketball",
+                "slug": "mens-college-basketball",
+                "abbreviation": "NCAAM",
+                "parentId": "40",
+                "coreRef": {
+                    "$ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball?lang=en&region=us",
+                    "midsizeName": "NCAAM Basketball"
+                },
+                "alternateId": 3200,
+                "links": [{
+                    "language": "en-US",
+                    "rel": ["index", "desktop", "league"],
+                    "href": "https://www.espn.com/mens-college-basketball/",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["index", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:41",
+                    "text": "Index",
+                    "shortText": "Index",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "desktop", "league"],
+                    "href": "https://www.espn.com/mens-college-basketball/schedule",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["schedule", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:41&section=scores",
+                    "text": "Schedule",
+                    "shortText": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["standings", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:41&section=standings",
+                    "text": "Standings",
+                    "shortText": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["rankings", "desktop", "league"],
+                    "href": "https://www.espn.com/mens-college-basketball/rankings",
+                    "text": "Rankings",
+                    "shortText": "Rankings",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/scoreboard",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["scores", "sportscenter", "app", "league"],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:41&section=scores",
+                    "text": "Scores",
+                    "shortText": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["stats", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/statistics",
+                    "text": "Stats",
+                    "shortText": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["teams", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/teams",
+                    "text": "Teams",
+                    "shortText": "Teams",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["athletes", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/players",
+                    "text": "Players",
+                    "shortText": "Players",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["injuries", "desktop", "league"],
+                    "href": "https://www.espn.com/mens-college-basketball/injuries",
+                    "text": "Injuries",
+                    "shortText": "Injuries",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["bpi_overview", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/bpi",
+                    "text": "Overview",
+                    "shortText": "Overview",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["bpi_bpi", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/bpi/_/view/bpi",
+                    "text": "BPI",
+                    "shortText": "BPI",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["bpi_resume", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/bpi/_/view/resume",
+                    "text": "Resume",
+                    "shortText": "Resume",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["bpi_projections", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/bpi/_/view/projections",
+                    "text": "Projections",
+                    "shortText": "Projections",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["bpi_predictions", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/bpi/_/view/predictions",
+                    "text": "Daily Predictions",
+                    "shortText": "Daily Predictions",
+                    "isExternal": false,
+                    "isPremium": false
+                }, {
+                    "language": "en-US",
+                    "rel": ["bpi_tournament", "desktop", "league"],
+                    "href": "http://www.espn.com/mens-college-basketball/bpi/_/view/tournament",
+                    "text": "Tournament",
+                    "shortText": "Tournament",
+                    "isExternal": false,
+                    "isPremium": false
+                }]
+            }
+        },
+        "sortGlobal": 23,
+        "isImplicit": false,
+        "isHidden": false,
+        "typeId": 1,
+        "affinity": 0,
+        "type": {
+            "id": 1,
+            "name": "Favorite Sports",
+            "code": "sports",
+            "isDeletable": true,
+            "isDelegated": false,
+            "maxAllowed": 20
+        }
+    }],
+    "recommendations": []
+}
